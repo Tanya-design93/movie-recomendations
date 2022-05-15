@@ -1,5 +1,4 @@
-//import logo from './logo.svg';
-//import './App.css';
+
 import './InputSearchStyle.css';
 import * as MovieSearchEngine from './MovieSearchEngine.js';
 function InputSearch() {
